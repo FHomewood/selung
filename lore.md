@@ -1,10 +1,12 @@
-<img src='Resources/selung.png' width='100%'/>
+<img src='Resources/selung-dark.png#gh-dark-mode-only' width='100%'/>
+<img src='Resources/selung-light.png#gh-light-mode-only' width='100%'/>
 
 ## Selung 
 
 
 ### The City of Voxaj
-<img src='Resources/voxaj-map.png' width='60%'/>
+<img src='Resources/voxaj-map-dark.png#gh-dark-mode-only' width='60%'/>
+<img src='Resources/voxaj-map-light.png#gh-light-mode-only' width='60%'/>
 
 Selung is a language spoken by a people centered around the city of Voxaj, a mountaintop community of spiritualists who praise the skies for the care they bestow unto their citizens. The natural attunement they possess with the air around them keeps the city secure and its people prosperous, the artisans of Voxaj developed wooden hand gliders which have enabled them to utilise this natural harmony to soar through the breeze with swiftness and agility, though many of the skilled woodworkers that made these gliders have relocated further down the mountain to enhance their craft.
 
@@ -21,13 +23,16 @@ The Northern district Calmair is named after its sheltered geography, having no 
 New Voxaj is the most recent addition to the city, the demand emerged as more unenlightened folk travelled to the city to learn, due to this a lot of the district is temporary housing as well as study centers for those looking to understand the culture of Voxaj. On the western coast of New Voxaj can often find young citizens with their zowhan trying to find their wings for the first time. This spot is a common first flight zone as the winds are high across the lake and the surroundings are not of such importance as the fields of Lakeside or the import plane of northern Briskwind.
 
 ### Geography & Climate
-<img src='Resources/island-map.png' width='100%'/>
+<img src='Resources/island-map-dark.png#gh-dark-mode-only' width='100%'/>
+<img src='Resources/island-map-light.png#gh-light-mode-only' width='100%'/>
 
 ### Spiritual
-<img src='Resources/spirit-bird.png' width='100%'/>
+<img src='Resources/spirit-bird-dark.png#gh-dark-mode-only' width='100%'/>
+<img src='Resources/spirit-bird-light.png#gh-light-mode-only' width='100%'/>
 
 ### Gliding Equipment
-<img src='Resources/zhowan.png' width='100%'/>
+<img src='Resources/zhowan-dark.png#gh-dark-mode-only' width='100%'/>
+<img src='Resources/zhowan-light.png#gh-light-mode-only' width='100%'/>
 
 In Voxaj, the air-smiths are responsible for carefully crafting all of the handgliders that can be found in the city. There are many things that set the air-smiths apart from the regular craftspeople of the city; two distinguishing factors for the most part. The first being that they are unable to live within the confines of the city, situated instead in the midland forests of the mountain, the reason for this leads us to the next aspect that sets them apart from a regular carpenter.
 
@@ -40,7 +45,8 @@ As a curing process for a nearby plant was developed to enhance it's elastic pro
 ### Farming & Agriculture
 
 ### Currency & Trade
-<img src='Resources/zhaw.png' width='100%'/>
+<img src='Resources/zhaw-dark.png#gh-dark-mode-only' width='100%'/>
+<img src='Resources/zhaw-light.png#gh-light-mode-only' width='100%'/>
 
 In order to better serve the unenlightened people coming to the city from outside, Voxaj released a currency made from offcuts of wood, the Zhaw. The wood alone has little value to the citizens who have historically traded in favours, however it ensures that those living outside the city must contribute to the city before they are permitted to benefit from it.
 
